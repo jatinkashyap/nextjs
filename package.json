@@ -1,0 +1,24 @@
+{
+  "name": "nextjs",
+  "version": "1.0.0",
+  "description": "next js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jatinkashyap/nextjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jatinkashyap/nextjs/issues"
+  },
+  "homepage": "https://github.com/jatinkashyap/nextjs#readme",
+  "dependencies": {
+    "next": "^7.0.1",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2"
+  }
+}
